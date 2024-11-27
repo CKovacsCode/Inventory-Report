@@ -1,0 +1,6 @@
+The Shawshank Redemption,C0000001,100,1995,DVD,4,5,3,1
+The Dark Knight,C0000003,50,1995,DVD,5,2,3
+Casablanca,C0000007,137,995,DVD,5,4,5,3
+The Girl With The Dragon Tattoo,C0000015,150,1495,Book,4,4,2
+Vertigo,C0000023,55,995,DVD,5,5,3,5,2,4
+A Game of Thrones,C0000019,100,895,Book,1
